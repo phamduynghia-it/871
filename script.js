@@ -514,7 +514,7 @@ document.addEventListener("DOMContentLoaded", () => {
 popupImg.addEventListener("click", () => {
     const message = `Merry ChristmaS...
 Là ngày lễ giáng sinh, anh mong mọi điều tốt đẹp sẽ đến với em.
-Cầu cho em người gái ánh thương lúc nào cũng hạnh phúc, luôn nở nụ cười thật tươi nhé.
+Cầu cho em người gái anh thương lúc nào cũng hạnh phúc, luôn nở nụ cười thật tươi nhé.
 Chúc em một mùa giáng sinh an lành, hạnh phúc ấm áp bên gia đình và bên anh nhé.`;
 
 
